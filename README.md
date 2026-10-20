@@ -1,59 +1,58 @@
-# Hi there! I'm Lucas 👋
 
-### Flutter & Dart Developer 📱
+<div align="center">
 
-I'm a mobile developer based in Brazil, focused on building functional, maintainable, and reliable applications using **Flutter and Dart**.
+# Hi, I'm Lucas 👋
 
-I have hands-on experience developing a mobile application with offline-first architecture, local data persistence, cloud synchronization, authentication, and state management.
+### Flutter & Dart Developer | Mobile Applications
 
-I'm continuously improving my skills in software architecture, design patterns, clean code, and automated testing.
+Building reliable, maintainable mobile apps with offline-first architecture and cloud synchronization.
 
-### 🛠️ Tech Stack
+📍 Minas Gerais, Brazil · 🌎 Open to remote and international junior Flutter opportunities
 
-**Mobile Development**
-- Flutter & Dart
-- Material Design
-- State Management with Provider
+</div>
 
-**Backend & Databases**
-- Firebase Authentication
-- Cloud Firestore
-- Firebase Storage
-- SQLite & Drift ORM
+---
 
-**Tools & Practices**
-- Git & GitHub
-- GitHub Actions (CI/CD)
-- REST API Integration
-- Offline-First Architecture
-- Android Development
-- VS Code & Android Studio
+## 👨‍💻 About Me
 
-### 🚀 What I'm Working On
+I'm a Flutter and Dart developer based in Brazil, with hands-on experience building a mobile application for operational and administrative management.
 
-I'm currently developing a mobile application for operational and administrative management, exploring:
+My work involves offline-first data flows, local and cloud databases, authentication, state management, real-time messaging, and geolocation features. I'm continuously improving my software architecture, code quality, and testing skills.
 
-- Offline-first data management
-- Local and cloud database synchronization
-- Real-time messaging
-- Authentication and user management
-- Geolocation and Google Maps integration
-- Modular application development
+## 🛠️ Tech Stack
 
-### 📚 Currently Learning
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,git,github,githubactions,vscode,androidstudio)
 
-- Software Architecture
-- SOLID Principles
-- Design Patterns
-- Dependency Injection
-- Unit & Integration Testing
+- **Mobile:** Flutter · Dart · Material Design · Provider
+- **Backend & data:** Firebase Authentication · Cloud Firestore · Firebase Storage · SQLite · Drift
+- **Tools & practices:** Git · GitHub Actions (CI/CD) · Android Studio · VS Code · Offline-first design
 
-### 🎯 Career Goals
+## 🚀 What I'm Building
 
-I'm looking for opportunities as a **Junior Flutter Developer**, including remote and international positions.
+### Mobile Management Application
 
-I'm motivated to contribute to real-world projects, collaborate with experienced developers, and continuously grow as a software engineer.
+A mobile application designed to support operational and administrative workflows, with a focus on:
 
-### 🤝 Let's Connect
+- Offline-first persistence and synchronization between local and cloud data
+- Authentication and user profile management
+- State management with Provider
+- Real-time messaging features
+- Location and map integration
+- Automated build and delivery workflows with GitHub Actions
 
-[LinkedIn](https://www.linkedin.com/)
+The original project is private. A separate public demo using fictional data may be shared here in the future.
+
+## 📚 Currently Learning
+
+- SOLID principles and dependency injection
+- Design patterns and software architecture
+- Clean, maintainable Dart code
+- Unit and integration testing
+
+## 🎯 Career Goals
+
+I'm interested in Junior Flutter Developer opportunities, including remote and international teams. I'm looking forward to contributing to production applications, collaborating with other developers, and growing through practical engineering challenges.
+
+## 🤝 Connect
+
+Find my LinkedIn profile using the link in the sidebar of my GitHub profile.
